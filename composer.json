@@ -9,7 +9,9 @@
             "email": "mdbutlerlaw@me.com"
         }
     ],
-    "require": {},
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
     "autoload": {
         "psr-4": {
             "Lawdoc71\\ChuckNorrisJokes\\": "src"
