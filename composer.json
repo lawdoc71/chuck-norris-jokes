@@ -1,0 +1,26 @@
+{
+    "name": "lawdoc71/chuck-norris-jokes",
+    "description": "A package for chuck norris jokes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lawdoc71",
+            "email": "mdbutlerlaw@me.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lawdoc71\\ChuckNorrisJokes\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Lawdoc71\\ChuckNorrisJokes\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1"
+    }
+}
