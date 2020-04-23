@@ -1,6 +1,6 @@
 <?php
 
-namespace Lawdoc71\ChuckNorrisJokes;
+namespace Lawdoc71\ChuckNorrisJokes\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
