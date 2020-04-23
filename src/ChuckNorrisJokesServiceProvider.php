@@ -3,8 +3,8 @@
 namespace Lawdoc71\ChuckNorrisJokes;
 
 use Illuminate\Support\ServiceProvider;
-use Lawdoc71\ChuckNorrisJokes\Console\ChuckNorris;
 use Lawdoc71\ChuckNorrisJokes\JokeFactory;
+use Lawdoc71\ChuckNorrisJokes\Console\ChuckNorrisJoke;
 
 class ChuckNorrisJokesServiceProvider extends ServiceProvider
 {
