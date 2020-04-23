@@ -32,7 +32,7 @@
                 "Lawdoc71\\ChuckNorrisJokes\\ChuckNorrisJokesServiceProvider"
             ],
             "aliases": {
-                "ChuckNorris": "Lawdoc71\\ChuckNorrisJokes\\Facade\\ChuckNorris"
+                "ChuckNorris": "Lawdoc71\\ChuckNorrisJokes\\Facades\\ChuckNorris"
             }
         }
     }
